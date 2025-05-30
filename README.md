@@ -1,16 +1,18 @@
 ## Hi there 👋
+## 👨‍💻 About Me
+Hi! I'm Farzin – passionate about cybersecurity, web design, and new technologies. I’m currently learning and building my career step-by-step.
 
-<!--
-**farzinhatammabni/FarzinHatamMabni** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## 🎓 Certifications
+- **Cybersecurity – Harvard University**
+  - 📅 Issued: May 2025
+  - 🔗 [View Certificate](https://certificates.cs50.io/0b051406-5e40-46d0-b9fd-28277dd21179.png?size=letter)
 
-Here are some ideas to get you started:
+## 🛠️ Skills
+- WordPress & Elementor
+- Website Design without coding
+- Basic Cybersecurity
+- Git & GitHub
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 📫 Connect With Me
+- [LinkedIn](https://www.linkedin.com/in/farzin-hatam-360738247?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app)
+- Email: your-email@example.com
