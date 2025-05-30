@@ -15,4 +15,4 @@ Hi! I'm Farzin – passionate about cybersecurity, web design, and new technolog
 
 ## 📫 Connect With Me
 - [LinkedIn](https://www.linkedin.com/in/farzin-hatam-360738247?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app)
-- Email: your-email@example.com
+
