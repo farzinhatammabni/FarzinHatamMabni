@@ -1,4 +1,4 @@
-## Hi there 👋
+
 ## 👨‍💻 About Me
 Hi! I'm Farzin – passionate about cybersecurity, web design, and new technologies. I’m currently learning and building my career step-by-step.
 
